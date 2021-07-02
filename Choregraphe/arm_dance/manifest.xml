@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="arm_dance-3e34b8" installOnlyAtStartup="false">
+ <names>
+  <name lang="en_US">arm_dance</name>
+ </names>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="arm_dance">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
