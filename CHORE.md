@@ -4,7 +4,7 @@
 
  install choregraphe from softbanks - https://www.softbankrobotics.com/emea/en/support/nao-6/downloads-softwares
 
- download or clone the files in the choregraphe folder
+ download or clone the files in the [choregraphe folder](https://github.com/ParkerNC/NAO-scripts/tree/main/Choregraphe)
 
  run the choregraph executable within that folder
 
